@@ -11,3 +11,6 @@ Simpler setup
 
 Easiest setup with most direct without breadboard
 <img width="1300" height="649" alt="Brave Krunk (1)" src="https://github.com/user-attachments/assets/53753e99-b57d-494d-9f6f-f914ffb3bf4b" />
+
+If you do not know how to set up Arduino in tinkerCAD, watch this video: 
+https://www.youtube.com/watch?v=CGfTiGeqmw0
