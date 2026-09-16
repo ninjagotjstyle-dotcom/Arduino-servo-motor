@@ -6,5 +6,8 @@ To make this Servo setup, Have minimum of 3 jumper wires, but you can add more f
 More complex set-up with breadboard
 <img width="1300" height="649" alt="Brave Krunk" src="https://github.com/user-attachments/assets/4acd6f4c-4e29-4a4c-853e-f169d6204cf0" />
 
-Easy set up with direct wires for beginners
+Simpler setup
 <img width="918" height="610" alt="Screenshot 2026-09-16 12 46 50 PM" src="https://github.com/user-attachments/assets/40e9ceef-42d2-40ea-a37e-9eeb535bcd6b" />
+
+Easiest setup with most direct without breadboard
+<img width="1300" height="649" alt="Brave Krunk (1)" src="https://github.com/user-attachments/assets/53753e99-b57d-494d-9f6f-f914ffb3bf4b" />
