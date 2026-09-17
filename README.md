@@ -53,12 +53,15 @@ D9 -------------------- Signal (orange/yellow/white)
 
 ### 1. Simplest setup
 The simplest version is to connect the servo directly to the Arduino without a breadboard. This works for basic projects and quick testing.
+<img width="2400" height="1100" alt="Terrific Amur-Snaget (2)" src="https://github.com/user-attachments/assets/b1ae8cf7-744f-468d-b06a-970453757a47" />
 
 ### 2. Breadboard setup
 A breadboard gives you more room to organize the wires and makes troubleshooting easier. This setup is helpful if you are adding more components or want a cleaner project.
+<img width="2400" height="1100" alt="Terrific Amur-Snaget (1)" src="https://github.com/user-attachments/assets/65c1c9f8-3788-4ace-bc90-f0403f2cdcf1" />
 
-### 3. Most direct setup
-This is the clearest and least cluttered method if you want to keep the circuit small and easy to understand.
+### 3. Most complex setup
+This is the haeasnd most cluttered method if you want to learn more of arduino and breadboards
+<img width="2400" height="1100" alt="Terrific Amur-Snaget" src="https://github.com/user-attachments/assets/7c2890a0-b262-4f8d-a379-e1d3f4adcb07" />
 
 ## Arduino code
 
