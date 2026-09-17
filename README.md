@@ -60,7 +60,7 @@ A breadboard gives you more room to organize the wires and makes troubleshooting
 <img width="2400" height="1100" alt="Terrific Amur-Snaget (1)" src="https://github.com/user-attachments/assets/65c1c9f8-3788-4ace-bc90-f0403f2cdcf1" />
 
 ### 3. Most complex setup
-This is the haeasnd most cluttered method if you want to learn more of arduino and breadboards
+This is the most cluttered method if you want to learn more of arduino and breadboards
 <img width="2400" height="1100" alt="Terrific Amur-Snaget" src="https://github.com/user-attachments/assets/7c2890a0-b262-4f8d-a379-e1d3f4adcb07" />
 
 ## Arduino code
