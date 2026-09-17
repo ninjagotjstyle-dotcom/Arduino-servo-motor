@@ -154,13 +154,3 @@ You can expand this project by:
 If you do not know how to set up Arduino in Tinkercad, watch this video:
 
 [Arduino Servo Motor Basics Tutorial](https://www.youtube.com/watch?v=dI2lGIy-XgY)
-
-## Summary
-
-This project is a simple introduction to controlling a servo with Arduino. By connecting the servo to pin D9 and running the provided code, the servo will sweep continuously across its full range of motion. It is an excellent beginner project for learning the basics of electronics, Arduino coding, and motor control.
-
-If you want, I can also turn this into a cleaner README with:
-- a more professional layout
-- a labeled wiring diagram image section
-- a step-by-step beginner explanation
-- a version specifically formatted for GitHub with nicer markdown styling
